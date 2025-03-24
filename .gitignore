@@ -1,3 +1,4 @@
 fa_copilot_env
 raw_docs
 data
+__pycache__/
